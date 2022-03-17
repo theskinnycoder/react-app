@@ -3,7 +3,7 @@ import { useState } from "react";
 const arr = [
   {
     id: 1,
-    text: "Learn React",
+    text: "Learn React!",
     completed: false,
   },
   {
